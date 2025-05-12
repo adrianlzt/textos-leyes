@@ -6310,9 +6310,9 @@ sin perjuicio de otras restricciones al suministro que pudieran establecerse en 
 sectorial, por ejemplo, sobre el tipo de depósitos.
 
 En las estaciones de servicio se prohíbe el llenado de envases de GLP, salvo que formen parte
-
 integral e indivisible de la instalación de gas del medio de transporte y dispongan de conexión de   
-llenado independiente.
+llenado independiente. Esto incluye las instalaciones de gas en autocaravanas destinadas a otros
+usos distintos al de propulsión (por ejemplo, cocina, agua caliente o calefacción).
 
 Según lo indicado en el artículo 2 del reglamento, las disposiciones de la presente ITC se
 
